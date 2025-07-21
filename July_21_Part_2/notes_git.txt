@@ -21,5 +21,20 @@ How to add to staging area is
 
 git add .
 
+How to add to Local repository : 
+
+git commit -m "git notes updated"
+
+How to add the files to remote repository
+
+git push origin <branch_name> 
+
+assume, the branch name is main then 
+
+git push origin main
+
+git diff : Identifies the changes between old commit (vs) new commit
+
+git status : Used to identify the current repo status. 
 
 
