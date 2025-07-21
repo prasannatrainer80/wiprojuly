@@ -117,5 +117,56 @@ class class_name
    member functions;
 }
 
+Data Types : There are various types of data types in C# as 
+	
+	(I) value types
+
+		int
+		float
+	        byte, short, long, double, char
+
+	(ii) reference types : string, object and user-defined class objects
+
+*** Value types will be stored in STACK memory, and reference types will be stored in HEAP memory ***
+
+Operators : 
+____________
+
+There are various types of operators as
+
+(I) Arithmetic Operators
+
+	+ 
+	-
+	*
+	/
+	%
 
 
+(ii) Relational Operators
+
+	>
+	<
+	>=
+	<=
+	== 
+	!=
+
+(iii) Logical Operators
+
+	&&
+	||
+	!
+
+(iv) Unary Operators
+
+	++, -- 
+
+(v) Bit-wise Operators 
+
+	&  -> Binary AND Operator 
+	|  -> Binary OR Operator 
+	^  -> Binary XOR operator
+        ~  -> Act as Negation Operator 
+	<< -> Binary Left Shift Operator
+	>> -> Binary Right Shift Operator
