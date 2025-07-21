@@ -37,4 +37,6 @@ git diff : Identifies the changes between old commit (vs) new commit
 
 git status : Used to identify the current repo status. 
 
+git checkout filename : Used to remove the changes before last commit. 
 
+git reset HEAD file_name : Used to unstage the file to working directory.
