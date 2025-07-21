@@ -170,3 +170,46 @@ There are various types of operators as
         ~  -> Act as Negation Operator 
 	<< -> Binary Left Shift Operator
 	>> -> Binary Right Shift Operator
+
+System is the default namespace in .NET framework, you can add this to your code as
+
+using System;
+
+.NET framework contains libraries as
+
+(I) BCL (Base-Class Libraries) 
+
+	The libraries which are part of base version of .NET framework.
+
+(II) FCL (Framework Class-Libraries) 
+
+	The libraries which are coming w.r.t. Framework. 
+
+Console.WriteLine() : Used to display any value or message. 
+
+Console.WriteLine("Welcome to Dotnet Programming...");
+
+Console.ReadLine() : Used to read data from the keyboard. 
+
+You can define method main() as 
+
+static void Main() {
+...
+...
+...
+}
+
+Main() must be static as no class object supposed to call method Main().
+
+
+            int x = 12;
+            int y = x++ + ++x;
+            Console.WriteLine(y);
+
+Actual 12  12  14
+Memory     13  
+
+strings in dotnet are immutable, means once they are assigned we cannot alter the value by using any string methods. 
+
+stringbuilder is mutable as we can alter the value using string methods. 
+
