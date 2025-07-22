@@ -225,6 +225,63 @@ There are 2 types of data types as
 	string,object and user-defined classes 
 
 
+Looping Control Structures : 
+_____________________________
+
+(i) while loop :  This loop executes all the statements repeatedly until the condition remains true, if the condition remains false, then it comes out of the loop. For every loop, basically there are 3 phases as 
+
+	(i) Initialization
+
+	(ii) Condition
+
+	(iii) Increment/Decrement 
+
+*** Initialization performed at the beginning of the loop ***
+
+*** Condition performed at the conditional part of the loop ***
+
+*** Increment/Decrement performed before closing the loop ***
+
+while(condition) {
+   statement(s);
+}
+
+for loop : This loop executes all the statement(s) repeatedly until the condition remains true, if the condition remains false, then it comes out of the loop. 
+for(initialization;condition;increment/decrement) {
+   statement(s);
+}
+
+Arrays : An array is the finite ordered set of homogeneous elements, means 
+all the elements belongs to same data type. 
+
+All the elements of array are stored in successive memory locations. 
+
+int[] a = new int[]{10,5,22,52,11};
+
+a[0]=10;
+a[1]=5;
+a[2]=22;
+a[3]=52;
+a[4]=11;
+
+ int[] a = new int[] { 12, 5, 23, 66, 22 };
+ //for(int i = 0; i < a.Length; i++)
+ //{
+       i = 5;
+ //    Console.WriteLine(a[i]);
+ //}
+
+ foreach (int i in a)
+ {
+     Console.WriteLine(i);
+ }
+
+How the way internally foreach loop will work ???
+
+In above foreach loop variable i points to the first element in Array A, after processing the first element it checks next element is there or not by using hasMoreElements() method, as it is part of Enumerator collection. if true, then it moves the next value by using nextElement() method. It repeats as soon as hasMoreElements() returns true. 
+
+
+
 
 
 
