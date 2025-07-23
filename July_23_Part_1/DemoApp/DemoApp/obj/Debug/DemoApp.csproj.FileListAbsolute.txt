@@ -1,0 +1,7 @@
+D:\WiproJuly\Day3\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+D:\WiproJuly\Day3\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+D:\WiproJuly\Day3\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+D:\WiproJuly\Day3\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+D:\WiproJuly\Day3\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
