@@ -121,6 +121,32 @@ class Second : First {
 
 Once you create an object to Second class, then you can access all public/protected and friendly members of base class. 
 
+Dll (Dynamic Link Library) 
+
+	A dll allows you to write code once and call in multiple projects. 
+
+base keyword : If you want to pass values from derived class to base class, then we need the help of base keyword. 
+
+It has 2 forms as 
+
+base as a keyword
+base as a constructor
+
+shadowing : If you want to hide the base class methods in derived class, then we need to use shadowing concept. You can do shadowing by using new keyword. 
+
+What is the top level class in Dotnet is Object 
+
+System.Object is the top level class. 
+
+Object class have various methods as
+
+GetHashCode()
+GetType()
+ToString() -> This method will be called automatically once you print the object. By default it has string representation means it returns String value. 
+
+
+
+
 
 
 

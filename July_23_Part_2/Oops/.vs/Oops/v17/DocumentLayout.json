@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day3\\Oops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|d:\\wiprojuly\\day3\\oops\\oops\\inhc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|solutionrelative:oops\\inhc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Oops||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|D:\\WiproJuly\\Day3\\Oops\\oops\\inhex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|solutionrelative:oops\\inhex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|D:\\WiproJuly\\Day3\\Oops\\oops\\conover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|solutionrelative:oops\\conover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|D:\\WiproJuly\\Day3\\Oops\\oops\\conex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|solutionrelative:oops\\conex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|D:\\WiproJuly\\Day3\\Oops\\oops\\overloadex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|solutionrelative:oops\\overloadex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|D:\\WiproJuly\\Day3\\Oops\\oops\\overloadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323D8049-AB84-4CC5-BA8E-115A84B7890E}|Oops\\Oops.csproj|solutionrelative:oops\\overloadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inhc.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Oops\\Oops\\Inhc.cs",
+              "RelativeDocumentMoniker": "Oops\\Inhc.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Oops\\Oops\\Inhc.cs",
+              "RelativeToolTip": "Oops\\Inhc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:21:35.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InhEx.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Oops\\Oops\\InhEx.cs",
+              "RelativeDocumentMoniker": "Oops\\InhEx.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Oops\\Oops\\InhEx.cs",
+              "RelativeToolTip": "Oops\\InhEx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:16:49.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conover.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Oops\\Oops\\Conover.cs",
+              "RelativeDocumentMoniker": "Oops\\Conover.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Oops\\Oops\\Conover.cs",
+              "RelativeToolTip": "Oops\\Conover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:01:58.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConEx.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Oops\\Oops\\ConEx.cs",
+              "RelativeDocumentMoniker": "Oops\\ConEx.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Oops\\Oops\\ConEx.cs",
+              "RelativeToolTip": "Oops\\ConEx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:57:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oops",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Oops\\Oops\\Oops.csproj",
+              "RelativeDocumentMoniker": "Oops\\Oops.csproj",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Oops\\Oops\\Oops.csproj",
+              "RelativeToolTip": "Oops\\Oops.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T05:47:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OverloadEx2.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Oops\\Oops\\OverloadEx2.cs",
+              "RelativeDocumentMoniker": "Oops\\OverloadEx2.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Oops\\Oops\\OverloadEx2.cs",
+              "RelativeToolTip": "Oops\\OverloadEx2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:45:56.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverloadEx1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\Oops\\Oops\\OverloadEx1.cs",
+              "RelativeDocumentMoniker": "Oops\\OverloadEx1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\Oops\\Oops\\OverloadEx1.cs",
+              "RelativeToolTip": "Oops\\OverloadEx1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:38:07.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

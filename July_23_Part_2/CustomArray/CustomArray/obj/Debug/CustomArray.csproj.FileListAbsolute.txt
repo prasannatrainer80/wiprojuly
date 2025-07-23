@@ -1,0 +1,7 @@
+D:\WiproJuly\Day3\CustomArray\CustomArray\bin\Debug\CustomArray.exe.config
+D:\WiproJuly\Day3\CustomArray\CustomArray\bin\Debug\CustomArray.exe
+D:\WiproJuly\Day3\CustomArray\CustomArray\bin\Debug\CustomArray.pdb
+D:\WiproJuly\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.exe
+D:\WiproJuly\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.pdb

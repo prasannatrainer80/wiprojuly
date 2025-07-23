@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day3\\InhExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D9C677-A344-4761-9763-EF989B404205}|InhExamples\\InhExamples.csproj|d:\\wiprojuly\\day3\\inhexamples\\inhexamples\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D9C677-A344-4761-9763-EF989B404205}|InhExamples\\InhExamples.csproj|solutionrelative:inhexamples\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D9C677-A344-4761-9763-EF989B404205}|InhExamples\\InhExamples.csproj|d:\\wiprojuly\\day3\\inhexamples\\inhexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D9C677-A344-4761-9763-EF989B404205}|InhExamples\\InhExamples.csproj|solutionrelative:inhexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D9C677-A344-4761-9763-EF989B404205}|InhExamples\\InhExamples.csproj|d:\\wiprojuly\\day3\\inhexamples\\inhexamples\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D9C677-A344-4761-9763-EF989B404205}|InhExamples\\InhExamples.csproj|solutionrelative:inhexamples\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Second.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\InhExamples\\InhExamples\\Second.cs",
+              "RelativeDocumentMoniker": "InhExamples\\Second.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\InhExamples\\InhExamples\\Second.cs",
+              "RelativeToolTip": "InhExamples\\Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:11:07.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "First.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\InhExamples\\InhExamples\\First.cs",
+              "RelativeDocumentMoniker": "InhExamples\\First.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\InhExamples\\InhExamples\\First.cs",
+              "RelativeToolTip": "InhExamples\\First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:10:05.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\InhExamples\\InhExamples\\Program.cs",
+              "RelativeDocumentMoniker": "InhExamples\\Program.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\InhExamples\\InhExamples\\Program.cs",
+              "RelativeToolTip": "InhExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:09:45.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

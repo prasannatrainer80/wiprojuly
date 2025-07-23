@@ -1,0 +1,7 @@
+D:\WiproJuly\Day3\InhExamples\InhExamples\bin\Debug\InhExamples.exe.config
+D:\WiproJuly\Day3\InhExamples\InhExamples\bin\Debug\InhExamples.exe
+D:\WiproJuly\Day3\InhExamples\InhExamples\bin\Debug\InhExamples.pdb
+D:\WiproJuly\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.exe
+D:\WiproJuly\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.pdb

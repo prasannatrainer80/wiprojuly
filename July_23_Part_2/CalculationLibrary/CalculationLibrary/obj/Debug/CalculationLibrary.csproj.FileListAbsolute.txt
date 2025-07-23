@@ -1,0 +1,6 @@
+D:\WiproJuly\Day3\CalculationLibrary\CalculationLibrary\bin\Debug\CalculationLibrary.dll
+D:\WiproJuly\Day3\CalculationLibrary\CalculationLibrary\bin\Debug\CalculationLibrary.pdb
+D:\WiproJuly\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.dll
+D:\WiproJuly\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.pdb

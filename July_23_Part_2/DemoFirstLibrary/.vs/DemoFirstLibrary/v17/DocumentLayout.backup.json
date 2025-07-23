@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A97C6E97-B3D5-4C84-9187-C153943DE877}|DemoSecondLibrary\\DemoSecondLibrary.csproj|d:\\wiprojuly\\day3\\demofirstlibrary\\demosecondlibrary\\third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97C6E97-B3D5-4C84-9187-C153943DE877}|DemoSecondLibrary\\DemoSecondLibrary.csproj|solutionrelative:demosecondlibrary\\third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97C6E97-B3D5-4C84-9187-C153943DE877}|DemoSecondLibrary\\DemoSecondLibrary.csproj|d:\\wiprojuly\\day3\\demofirstlibrary\\demosecondlibrary\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97C6E97-B3D5-4C84-9187-C153943DE877}|DemoSecondLibrary\\DemoSecondLibrary.csproj|solutionrelative:demosecondlibrary\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA423F4-833B-4C57-B9C0-EFB712AE96F9}|DemoFirstLibrary\\DemoFirstLibrary.csproj|d:\\wiprojuly\\day3\\demofirstlibrary\\demofirstlibrary\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA423F4-833B-4C57-B9C0-EFB712AE96F9}|DemoFirstLibrary\\DemoFirstLibrary.csproj|solutionrelative:demofirstlibrary\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA423F4-833B-4C57-B9C0-EFB712AE96F9}|DemoFirstLibrary\\DemoFirstLibrary.csproj|d:\\wiprojuly\\day3\\demofirstlibrary\\demofirstlibrary\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA423F4-833B-4C57-B9C0-EFB712AE96F9}|DemoFirstLibrary\\DemoFirstLibrary.csproj|solutionrelative:demofirstlibrary\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA423F4-833B-4C57-B9C0-EFB712AE96F9}|DemoFirstLibrary\\DemoFirstLibrary.csproj|d:\\wiprojuly\\day3\\demofirstlibrary\\demofirstlibrary\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA423F4-833B-4C57-B9C0-EFB712AE96F9}|DemoFirstLibrary\\DemoFirstLibrary.csproj|solutionrelative:demofirstlibrary\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Third.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoSecondLibrary\\Third.cs",
+              "RelativeDocumentMoniker": "DemoSecondLibrary\\Third.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoSecondLibrary\\Third.cs",
+              "RelativeToolTip": "DemoSecondLibrary\\Third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:03:42.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Second.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoSecondLibrary\\Second.cs",
+              "RelativeDocumentMoniker": "DemoSecondLibrary\\Second.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoSecondLibrary\\Second.cs",
+              "RelativeToolTip": "DemoSecondLibrary\\Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:01:09.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoFirstLibrary\\Data.cs",
+              "RelativeDocumentMoniker": "DemoFirstLibrary\\Data.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoFirstLibrary\\Data.cs",
+              "RelativeToolTip": "DemoFirstLibrary\\Data.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:59:00.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoFirstLibrary\\Test.cs",
+              "RelativeDocumentMoniker": "DemoFirstLibrary\\Test.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoFirstLibrary\\Test.cs",
+              "RelativeToolTip": "DemoFirstLibrary\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:57:42.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoFirstLibrary\\Demo.cs",
+              "RelativeDocumentMoniker": "DemoFirstLibrary\\Demo.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\DemoFirstLibrary\\DemoFirstLibrary\\Demo.cs",
+              "RelativeToolTip": "DemoFirstLibrary\\Demo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:52:52.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
