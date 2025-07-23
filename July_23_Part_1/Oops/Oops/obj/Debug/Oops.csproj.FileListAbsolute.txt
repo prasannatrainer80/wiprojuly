@@ -1,0 +1,7 @@
+D:\WiproJuly\Day3\Oops\Oops\bin\Debug\Oops.exe.config
+D:\WiproJuly\Day3\Oops\Oops\bin\Debug\Oops.exe
+D:\WiproJuly\Day3\Oops\Oops\bin\Debug\Oops.pdb
+D:\WiproJuly\Day3\Oops\Oops\obj\Debug\Oops.csproj.AssemblyReference.cache
+D:\WiproJuly\Day3\Oops\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day3\Oops\Oops\obj\Debug\Oops.exe
+D:\WiproJuly\Day3\Oops\Oops\obj\Debug\Oops.pdb

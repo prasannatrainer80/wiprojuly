@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "D:\\WiproJuly\\Day3\\DemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\refexnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\refexnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DemoApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{770086BB-8EF4-4FBD-87D2-179AFA6CA9C2}|DemoApp\\DemoApp.csproj|d:\\wiprojuly\\day3\\demoapp\\demoapp\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +68,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Matrix.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\Matrix.cs",
               "RelativeDocumentMoniker": "DemoApp\\Matrix.cs",
@@ -79,19 +83,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RefExNew.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\RefExNew.cs",
+              "RelativeDocumentMoniker": "DemoApp\\RefExNew.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\RefExNew.cs",
+              "RelativeToolTip": "DemoApp\\RefExNew.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:09:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Quiz2.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\Quiz2.cs",
               "RelativeDocumentMoniker": "DemoApp\\Quiz2.cs",
               "ToolTip": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\Quiz2.cs",
               "RelativeToolTip": "DemoApp\\Quiz2.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T05:06:36.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StrDemo.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\StrDemo.cs",
               "RelativeDocumentMoniker": "DemoApp\\StrDemo.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Quiz1.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\Quiz1.cs",
               "RelativeDocumentMoniker": "DemoApp\\Quiz1.cs",
@@ -117,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JaggedArrayEx4.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\JaggedArrayEx4.cs",
               "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx4.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "JaggedArrayEx3.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\JaggedArrayEx3.cs",
               "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx3.cs",
@@ -143,20 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JaggedArrayEx1.cs",
-              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\JaggedArrayEx1.cs",
-              "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx1.cs",
-              "ToolTip": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\JaggedArrayEx1.cs",
-              "RelativeToolTip": "DemoApp\\JaggedArrayEx1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T03:48:58.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CustomInput.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\CustomInput.cs",
               "RelativeDocumentMoniker": "DemoApp\\CustomInput.cs",
@@ -169,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DemoApp",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\DemoApp.csproj",
               "RelativeDocumentMoniker": "DemoApp\\DemoApp.csproj",
@@ -181,7 +185,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "JaggedArrayEx1.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\JaggedArrayEx1.cs",
+              "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx1.cs",
+              "ToolTip": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\JaggedArrayEx1.cs",
+              "RelativeToolTip": "DemoApp\\JaggedArrayEx1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:48:58.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "JaggedArrayEx2.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\JaggedArrayEx2.cs",
               "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx2.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Demo.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\Demo.cs",
               "RelativeDocumentMoniker": "DemoApp\\Demo.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WiproJuly\\Day3\\DemoApp\\DemoApp\\Program.cs",
               "RelativeDocumentMoniker": "DemoApp\\Program.cs",

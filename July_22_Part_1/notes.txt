@@ -280,6 +280,31 @@ How the way internally foreach loop will work ???
 
 In above foreach loop variable i points to the first element in Array A, after processing the first element it checks next element is there or not by using hasMoreElements() method, as it is part of Enumerator collection. if true, then it moves the next value by using nextElement() method. It repeats as soon as hasMoreElements() returns true. 
 
+write a program to reverse alternate words in a string and print them
+
+welcome to dotnet programming
+welcome ot dotnet gnimmargorp
+
+Write a program to print all palindrome words in your given string. 
+
+int x;
+
+x="Hello";
+x=12;
+x=12.5;
+
+object x;
+
+Boxing and Unboxing : The concept of converting value types to reference types known as boxing and reference types to value types known as unboxing. 
+
+object is the type that which can be used for boxing and unboxing. 
+
+object x=12;
+x++;
+
+int y = (Int32)x;
+y++;
+
 
 
 

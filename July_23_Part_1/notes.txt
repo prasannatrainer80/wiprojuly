@@ -64,6 +64,69 @@ synmbol table, that which contains entire history as passing method, calling met
 
 When you declare a string, at first it checks the value is available in heap memory or not (as strings are stored in some part of heap known as *** String Constant Pool ***) as if the value is available, then it points to the same memory location, if the value is not available then it would be stored in different memory location) 
 
+Method Overloading : The concept of using the same method name w.r.t. different data types or different no.of parameters known as method overloading.  Here, the method name must be same, but no.of parameters or type of parameters we are using here are different. 
+
+This is an example for compile-time polymorphism, as data binding will be happen at compile time. 
+
+class Test 
+{
+    int a, b;
+    a =5;
+    b = 7;
+}
+
+A constructor is a special member used to initialize the member variables of the class, it is special because it has the same name as that of class name. 
+
+Rules : 
+_______
+
+	(i) It will not contains any return type
+
+	(ii) It will not return any value
+
+	(iii) It will be invoked automatically once the instance of the class
+		created
+
+	 (iv) A constructor can be overloaded. 
+
+There are 2 types of constructors known as 
+
+(i) static constructor : These are called class constructors, which are used to initialize the static variables of the class, these constructors are invoked automatically before control reaches the entry point. These constructors cannot be overloaded. 
+
+You can define static constructor as 
+
+static class_name() {
+...
+...
+}
+
+(ii) instance constructor : These are the constructors, that which are invoked automatically once the instance of the class created.  These constructors can be overloaded. 
+
+What is the purpose of this keyword : Used to identify the member varaibles of the class. If class variable names and passing parameters both are same, then you can identify the class variable by using this keyword. 
+
+Inheritance : The concept of deriving a new class from already existing class known as inheritance, the class which derived known as derived class, the class from which its derived known as base class. 
+
+Through inheritance we can reduce the size of the program. 
+
+class First {
+...
+...
+}
+
+class Second : First {
+...
+...
+...
+}
+
+Once you create an object to Second class, then you can access all public/protected and friendly members of base class. 
+
+
+
+
+
+
+
 
 
 
