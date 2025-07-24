@@ -1,0 +1,164 @@
+1) Multi-Dimensional Arrays
+
+2) Jagged Arrays
+
+3) Type of parameters (in, ref, out, params)
+
+4) OOPS concepts 
+
+_________________________________________________________________________
+
+Two-dimensional Array in c#
+____________________________
+
+A two-dimensional array consists elements in terms of rows and columns. 
+
+You can declare two dimensional array as 
+
+int[,] x = new int[2,3]; means
+
+x is an array that contains 2 rows and 3 columns. 
+
+Jagged Arrays : 
+______________
+
+Jagged arrays consists of multiple arrays as its element. However, unlike multidimensional arrays each array inside jagged array.
+int[][] jaggedArray  new int[2][];
+
+[][] -> Represents jagged array
+
+[2][] -> Represents no.of arrays. 
+
+here jagged array can store 2 array elements in that. 
+
+syntax : 
+_________
+
+int[][] jaggedArray = new int[2][];
+
+int[] x = new int[]{12,5,22};
+int[] y = new int[]{55,11,55};
+
+jaggedArray[0]=x;
+jaggedArray[1]=y;
+
+There are 2 types of memories known as 
+
+(i) stack
+(ii) heap 
+
+*** value types will be stored in stack memory and reference types will be stored in heap memory ***
+
+static void Main() {
+  int n = 5;
+  int m = 7;
+  show(n,m);
+}
+
+void Show(int p, int q) {
+  ...
+  ...
+}
+
+synmbol table, that which contains entire history as passing method, calling method passing parameter variable names (vs) method variable names and allowing copying/sharing values to the variables specified. 
+
+When you declare a string, at first it checks the value is available in heap memory or not (as strings are stored in some part of heap known as *** String Constant Pool ***) as if the value is available, then it points to the same memory location, if the value is not available then it would be stored in different memory location) 
+
+Method Overloading : The concept of using the same method name w.r.t. different data types or different no.of parameters known as method overloading.  Here, the method name must be same, but no.of parameters or type of parameters we are using here are different. 
+
+This is an example for compile-time polymorphism, as data binding will be happen at compile time. 
+
+class Test 
+{
+    int a, b;
+    a =5;
+    b = 7;
+}
+
+A constructor is a special member used to initialize the member variables of the class, it is special because it has the same name as that of class name. 
+
+Rules : 
+_______
+
+	(i) It will not contains any return type
+
+	(ii) It will not return any value
+
+	(iii) It will be invoked automatically once the instance of the class
+		created
+
+	 (iv) A constructor can be overloaded. 
+
+There are 2 types of constructors known as 
+
+(i) static constructor : These are called class constructors, which are used to initialize the static variables of the class, these constructors are invoked automatically before control reaches the entry point. These constructors cannot be overloaded. 
+
+You can define static constructor as 
+
+static class_name() {
+...
+...
+}
+
+(ii) instance constructor : These are the constructors, that which are invoked automatically once the instance of the class created.  These constructors can be overloaded. 
+
+What is the purpose of this keyword : Used to identify the member varaibles of the class. If class variable names and passing parameters both are same, then you can identify the class variable by using this keyword. 
+
+Inheritance : The concept of deriving a new class from already existing class known as inheritance, the class which derived known as derived class, the class from which its derived known as base class. 
+
+Through inheritance we can reduce the size of the program. 
+
+class First {
+...
+...
+}
+
+class Second : First {
+...
+...
+...
+}
+
+Once you create an object to Second class, then you can access all public/protected and friendly members of base class. 
+
+Dll (Dynamic Link Library) 
+
+	A dll allows you to write code once and call in multiple projects. 
+
+base keyword : If you want to pass values from derived class to base class, then we need the help of base keyword. 
+
+It has 2 forms as 
+
+base as a keyword
+base as a constructor
+
+shadowing : If you want to hide the base class methods in derived class, then we need to use shadowing concept. You can do shadowing by using new keyword. 
+
+What is the top level class in Dotnet is Object 
+
+System.Object is the top level class. 
+
+Object class have various methods as
+
+GetHashCode()
+GetType()
+ToString() -> This method will be called automatically once you print the object. By default it has string representation means it returns String value. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
