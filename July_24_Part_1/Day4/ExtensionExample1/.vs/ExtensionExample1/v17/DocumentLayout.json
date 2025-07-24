@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WiproJuly\\Day4\\ExtensionExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3525F-75A5-4A37-A537-66148E7A4C10}|..\\AbstractExample1\\AbstractExample1.csproj|d:\\wiprojuly\\day4\\abstractexample1\\mahi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AbstractExample1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3525F-75A5-4A37-A537-66148E7A4C10}|..\\AbstractExample1\\AbstractExample1.csproj|d:\\wiprojuly\\day4\\abstractexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3525F-75A5-4A37-A537-66148E7A4C10}|..\\AbstractExample1\\AbstractExample1.csproj|d:\\wiprojuly\\day4\\abstractexample1\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3525F-75A5-4A37-A537-66148E7A4C10}|..\\AbstractExample1\\AbstractExample1.csproj|d:\\wiprojuly\\day4\\abstractexample1\\venkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3525F-75A5-4A37-A537-66148E7A4C10}|..\\AbstractExample1\\AbstractExample1.csproj|d:\\wiprojuly\\day4\\abstractexample1\\rajesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E3525F-75A5-4A37-A537-66148E7A4C10}|..\\AbstractExample1\\AbstractExample1.csproj|d:\\wiprojuly\\day4\\abstractexample1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractExample1",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\AbstractExample1\\AbstractExample1.csproj",
+              "RelativeDocumentMoniker": "..\\AbstractExample1\\AbstractExample1.csproj",
+              "ToolTip": "D:\\WiproJuly\\Day4\\AbstractExample1\\AbstractExample1.csproj",
+              "RelativeToolTip": "..\\AbstractExample1\\AbstractExample1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T04:25:10.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mahi.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\AbstractExample1\\Mahi.cs",
+              "RelativeDocumentMoniker": "..\\AbstractExample1\\Mahi.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\AbstractExample1\\Mahi.cs",
+              "RelativeToolTip": "..\\AbstractExample1\\Mahi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:18:33.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venkat.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\AbstractExample1\\Venkat.cs",
+              "RelativeDocumentMoniker": "..\\AbstractExample1\\Venkat.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\AbstractExample1\\Venkat.cs",
+              "RelativeToolTip": "..\\AbstractExample1\\Venkat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:17:40.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rajesh.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\AbstractExample1\\Rajesh.cs",
+              "RelativeDocumentMoniker": "..\\AbstractExample1\\Rajesh.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\AbstractExample1\\Rajesh.cs",
+              "RelativeToolTip": "..\\AbstractExample1\\Rajesh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:16:26.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Training.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\AbstractExample1\\Training.cs",
+              "RelativeDocumentMoniker": "..\\AbstractExample1\\Training.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\AbstractExample1\\Training.cs",
+              "RelativeToolTip": "..\\AbstractExample1\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:15:29.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WiproJuly\\Day4\\AbstractExample1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AbstractExample1\\Program.cs",
+              "ToolTip": "D:\\WiproJuly\\Day4\\AbstractExample1\\Program.cs",
+              "RelativeToolTip": "..\\AbstractExample1\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:14:53.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

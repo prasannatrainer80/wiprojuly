@@ -1,0 +1,7 @@
+D:\WiproJuly\Day4\InterfaceExample1\bin\Debug\InterfaceExample1.exe.config
+D:\WiproJuly\Day4\InterfaceExample1\bin\Debug\InterfaceExample1.exe
+D:\WiproJuly\Day4\InterfaceExample1\bin\Debug\InterfaceExample1.pdb
+D:\WiproJuly\Day4\InterfaceExample1\obj\Debug\InterfaceExample1.csproj.AssemblyReference.cache
+D:\WiproJuly\Day4\InterfaceExample1\obj\Debug\InterfaceExample1.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day4\InterfaceExample1\obj\Debug\InterfaceExample1.exe
+D:\WiproJuly\Day4\InterfaceExample1\obj\Debug\InterfaceExample1.pdb

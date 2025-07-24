@@ -1,0 +1,86 @@
+
+
+static variable : These are the variables, that which retains values irrespective of type of object. 
+
+static method : These are the methods, that which are to be called by using class name, no object allowed to call these methods. 
+
+Example : Console.WriteLine()
+	  Console.ReadLine() 
+
+static class : These classes contains only static methods, to be called by using class name, no non-static methods will be defined in the static class. 
+You cannot create an object to static class. 
+
+Extension Methods : If you want to add new methods to the existing class from outside class, then we need the help extension methods. Extension methods needs to be written in static class only. 
+
+assume, we have class as Calculation that contains Sum and Sub methods, 
+you want to add Mult and Div from outside, then we need the help of Extension methods. 
+
+create a static class, and in the static class you please follow the syntax as
+
+public static int Mult(this Calculation calc, int a, int b) {
+	return a * b;
+}
+
+abstract class : A class, that which can be created, but not implemented and instantiated known as abstract class. You cannot create an object to abstract class. Abstract class contains abstract and non-abstract methods, only abstract methods needs to be overrided mandatorily by the derived class. 
+
+abstract class class_name 
+{ 
+   abstract method1();
+   abstract method2();
+}  
+
+Will Abstract Class contains constructors or not 
+
+C# does not support the concept of multiple inheritance, to achieve this we need the help of interfaces. An interface contains method declaration, and the implementation can be done in the corresponding class, you can add more than one interface to the particular class. 
+
+An interface contains method declaration, and the implementation can be done in the corresponding class, you can add more than one interface to the particular class. 
+
+difference between interface and abstract class 
+________________________________________________
+
+-> An abstract class contains both abstract and non-abstract methods, where interface contains only abstract methods. 
+
+-> Interface methods are public and abstract by default. 
+
+-> Multiple Inheritance can be achieved by using interfaces
+
+-> An interface can be called from anywhere to anywhere. 
+
+interface interface_name {
+...
+...
+}
+
+you can add this interface to the class as
+
+class class_name : interface_name {
+...
+...
+...
+}
+
+*** When to use abstract class, when to use interface ***
+
+Abstract class used to represent hierarchical data, where interface can be used for specialization.
+
+Abstract class provides security to the data.
+
+
+If two interfaces are having same methods, and to be added to a class, you need to implement interfaces by adding interface name as prefix.
+
+Example : 
+
+ internal class Test : IOne, ITwo
+ {
+     void IOne.Show()
+     {
+         Console.WriteLine("Show Method from Interface One...");
+     }
+
+     void ITwo.Show()
+     {
+         Console.WriteLine("Show Method from Interface Two...");
+     }
+ }
+
+
