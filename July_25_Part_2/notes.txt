@@ -57,3 +57,71 @@ Now, you need to use the Method Serialize
 Deserialize() : This method allows you to Convert data of file into the C# class specified. 
 
 
+StringBuilder : StringBuilder is a mutable class as you can modify the content using the methods. 
+
+Generics allows you to define the data types at runtime. If you want to make any method as write once and apply for all types, then we need the help of Generics. 
+
+You can specify generics by using <T>, means in place of <T> we can pass any type. 
+
+1) Write once and apply for all types
+
+2) Provides security to the data
+
+3) No Typecasting required 
+
+4) Provides security to the data. 
+
+Application Architectures : 
+
+There are 3 types of application architectures are available known as 
+
+	(I) Single Tier
+	
+	(ii) Two-Tier
+
+	(iii) Three-Tier
+
+Whatever type of application architecture, basically it contains 3 layers known as
+
+	(i) User Services
+
+	(ii) Business Services : Whatever data you are entered in that any business calculations or logical operations to be performed then we need the help of Business Services (This layer will be added as BAL layer) 
+	
+	(iii) Data Services : Which is Known as Data Store (DAO) 
+
+So know once you do a project
+
+Data Layer (DAO) contains the actual functionality
+
+Business Layer (BAL) contains the validations. 
+
+The Flow will be 
+
+Data Layer to be called in Business Layer, Business Layer to be called in Client(Main method) 
+
+Employ 
+______
+
+Empno
+Name
+Gender
+Dept
+Desig
+Basic
+
+-> Validation Empno Cannot be Zero or Negative
+-> Name contains min. 5 characters
+-> Gender is MALE or FEMALE 
+-> Basic Must be between 10000 and 80000 
+
+1) Add Employ
+2) Show Employ
+3) Search Employ
+4) Update Employ
+5) Delete Employ
+
+If validation fails, please raise User-Defined Exception as EmployException
+
+we start by 4.30 PM
+
+
