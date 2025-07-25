@@ -1,0 +1,89 @@
+Exception filters in C# allow you to conditionally handle exceptions based on some logic, without catching them outright unless the condition is met. They are written using the when keyword in a catch clause.
+
+try
+{
+    // Code that may throw exception
+}
+catch (Exception ex) when (/* condition */)
+{
+    // Handle only if condition is true
+}
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        try
+        {
+            ThrowException("critical");
+        }
+        catch (Exception ex) when (ex.Message.Contains("critical"))
+        {
+            Console.WriteLine("Handled critical exception: " + ex.Message);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Handled general exception: " + ex.Message);
+        }
+    }
+
+    static void ThrowException(string type)
+    {
+        if (type == "critical")
+            throw new Exception("This is a critical error.");
+        else
+            throw new Exception("This is a normal error.");
+    }
+}
+🔹 Output:
+vbnet
+Copy
+Edit
+Handled critical exception: This is a critical error.
+💡 Use Cases:
+Logging specific exceptions
+
+Filtering exceptions by type, message, inner exception, or external state (like config)
+
+Avoid catching exceptions you cannot handle
+
+🧠 Notes:
+The when condition is evaluated before the catch block is entered.
+
+If the condition returns false, the next catch block is considered.
+
+Useful in logging frameworks, error telemetry, and fine-grained exception handling.
+
+Let me know if you want an ASP.NET Core–specific example or logging integration!
+
+Properties : 
+_____________
+
+Properties are the method which are used for value type operations. If you want to represent any value as field then we need the help of properites. If you want to control the internal behaviour of particular entity, then we need the help of properties. 
+
+You can define properties by using getter and setter. 
+
+There are various types of properties as 
+
+ReadOnly
+
+public datatype Property { get;set;} 
+
+public datatype Property{get;}="Default Value";
+
+public datatype Property {set {data = value;}}
+
+________________________________________________________
+
+out parameter : If you want to return more than one value to the corresponding method, then we need the help of out parameter. 
+
+
+
+WriteOnly
+
+Auto-Implemented Properties
+
+
+

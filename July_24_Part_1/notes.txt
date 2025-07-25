@@ -162,3 +162,5 @@ Write a program to check a person is eligible for voting or not,
 else throw user-defined exception VotingException. 
 
 
+Write a Program to perform calculation of 2 numbers, if any number < 0 then throw NegativeException, if any number = 0 then throw NumberZeroException.
+

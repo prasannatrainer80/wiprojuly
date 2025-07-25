@@ -213,3 +213,40 @@ strings in dotnet are immutable, means once they are assigned we cannot alter th
 
 stringbuilder is mutable as we can alter the value using string methods. 
 
+Access Modifiers : There are various access modifiers available in dotnet as
+
+(I) private : Allows you to access the members within current class. 
+
+(ii) public : Allows you to access members in entire application. 
+
+(iii) protected : Allows you to access members within current/derived class.
+
+(iv) internal : Allows you to access members within all classes of current namespace. 
+
+(v) protected internal : Allows you to access members within all classes of current namespace and other namespace derived classes. 
+
+How to define a method in C# 
+
+syntax : 
+
+<access-modifier> <return-type> method_name(par(s)) {
+
+}
+
+if a method don't return any value, it must be prefixed with void keyword. 
+
+public void SayHello() {
+   Console.WriteLine("Welcome to C# Programming...");
+}
+
+You can create an object to the class, as
+
+class_name object = new class_name();
+
+Assume class name is Data, then 
+
+Data obj = new Data();
+
+Value types will be stored in STACK memory and
+reference types will be stored in HEAP memory.
+
