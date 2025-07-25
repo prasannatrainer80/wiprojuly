@@ -1,0 +1,59 @@
+File : A file is a collection of Data, that which allows you to store the output permanently. 
+
+To deal with files, we need the help of System.IO namespace.
+
+FileStream : this class allows you to deal with files. 
+
+FileStream obj = new FileStream(filename,FileMode,FileAccess)
+
+FileModes :
+	Create : Used to create a new file, if the file already exists, it overwrites the old contents with new content.
+
+	CreateNew : Used to create new file mandatory.
+
+	Open : Used to open the existing file.
+
+	OpenOrCreate : Used to open the existing file, if the file does not exist, it creates a new file
+
+	Truncate : Used to delete the contents of the file.
+
+	Append : Used to add the content at the end of file. 
+
+FileAccess :
+
+	Read
+	Write
+	ReadWrite 
+
+StreamReader : Allows you to read text data from the file.
+
+StreamWriter : Used to write data into the file. 
+
+
+FileStream fs = new FileStream(@"c:/files/demo1.txt",FileMode.Create,
+FileAccess.Write);
+StreamWrite sw = new StreamWriter(fs);
+sw.WriteLine("Hello");
+sw.Flush();
+fs.Close();
+flush() :
+
+D:\WiproJuly\Day5\PropertiesExample\AutoImplemented.cs
+
+Serialization : It is a process of writing the user-defined class objects into the file. 
+
+You can implement Serilization as 
+
+  [Serializable]
+
+To write the data in terms of Object Format we need to use the class
+BinaryFormatter
+
+Now, you need to use the Method Serialize 
+
+            BinaryFormatter binformatter = new BinaryFormatter();
+            binformatter.Serialize(fs, employ);
+
+Deserialize() : This method allows you to Convert data of file into the C# class specified. 
+
+
