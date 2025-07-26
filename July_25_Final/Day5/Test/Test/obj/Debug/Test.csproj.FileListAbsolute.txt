@@ -1,0 +1,7 @@
+D:\WiproJuly\Day5\Test\Test\bin\Debug\Test.exe.config
+D:\WiproJuly\Day5\Test\Test\bin\Debug\Test.exe
+D:\WiproJuly\Day5\Test\Test\bin\Debug\Test.pdb
+D:\WiproJuly\Day5\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\WiproJuly\Day5\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day5\Test\Test\obj\Debug\Test.exe
+D:\WiproJuly\Day5\Test\Test\obj\Debug\Test.pdb
