@@ -1,0 +1,74 @@
+
+1) delegates
+2) attributes
+3) Generics and Collections
+4) Attributes
+5) Lambda Expressions
+
+______________________________________________
+
+Tuples
+Re Returns
+
+___________________________________________________________
+
+A delegate is reference type variable, that which allows you to pass function as a parameter. It is similar to function pointers concept in c/c++.
+
+You can declare a delegate as
+
+public delegate void Show();
+
+Show() here becomes delegate, that which contains reference of method(s) which has no parameters.
+
+How to create a delegate and add the method to them. 
+
+delegate_name obj = new delegate_name(methodName);
+
+then once you pass the value to the delegate object, the method which is there in delegate gets fired. 
+
+There are various types of delegates known as 
+
+(i) Single Cast Delegate : A delegate that which contains only one method reference at a time known as Single-Cast Delegate. 
+
+(ii) Multi Cast Delegate : A delegate that which contains the reference of more than one method at a time known as multi-cast delegate. 
+
+Assume, if a delegate contains only one method, then without declaring method we can write code inside main(). 
+
+That one we call as anonymous delegate. 
+
+In Delegate 3 varients we have as
+
+1) Action Delegate  : Action is a delegate type defined in the System namespace. Action type delegate does not return any value. If a delegate is void type, that is known as Action Delegate. 
+
+You can declare Action Delegates as 
+
+Action<DataType> obj = method_name;
+
+2) Function Delegate
+
+Assume we have a delegate as
+
+public delegate int Show(int n);
+
+if a delegate returns any value, that is known as Function Delegate
+
+Function delegate takes one input parameter and one output parameter 
+
+Assume a delegate returns int type and takes int as parameter, then
+
+You can define function delegate as 
+
+Func<int,int> obj = Method;
+
+First parameter is return type, second parameter is Type of parameter we need to pass. 
+
+3) Predicate Delegate : It is similar to Func and Action delegates, It represents as, predicate delegate methods must take one input parameter and return Boolean. 
+
+
+	
+
+
+
+
+
+
