@@ -1,0 +1,12 @@
+D:\WiproJuly\Day5\Project\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.dll
+D:\WiproJuly\Day5\Project\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.pdb
+D:\WiproJuly\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.AssemblyReference.cache
+D:\WiproJuly\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.dll
+D:\WiproJuly\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.pdb
+C:\Users\malli\Downloads\July_25_Final\July_25_Final\Day5\Project\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\malli\Downloads\July_25_Final\July_25_Final\Day5\Project\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\malli\Downloads\July_25_Final\July_25_Final\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\malli\Downloads\July_25_Final\July_25_Final\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\malli\Downloads\July_25_Final\July_25_Final\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.dll
+C:\Users\malli\Downloads\July_25_Final\July_25_Final\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.pdb
