@@ -64,8 +64,28 @@ First parameter is return type, second parameter is Type of parameter we need to
 
 3) Predicate Delegate : It is similar to Func and Action delegates, It represents as, predicate delegate methods must take one input parameter and return Boolean. 
 
+Reflection : 
 
-	
+Reflection objects are used for obtaining type information at runtime. 
+
+As, we may have system library or class library we have, we need to see entire information about fields, methods, properties, constructors etc... 
+
+And sometimes i need to check the method defined in correct format or not,
+then we need the help of Reflection.
+
+for this we need to add reference as System.Reflection 
+
+	-> Allows you to view entire information at runtime
+	-> Allows what types are available and what assemblies included 
+		in your project
+	-> Allows late binding to methods and properties
+	-> Allows creating new types at runtime and then performs tasks 
+	using types. 
+
+
+Obsolete :
+
+	This attribute marks a program entity that should not be used. It enables you to inform the compiler to discard the particular target element. 	
 
 
 

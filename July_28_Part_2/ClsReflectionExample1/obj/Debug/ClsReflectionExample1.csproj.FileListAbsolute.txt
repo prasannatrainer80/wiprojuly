@@ -1,0 +1,6 @@
+D:\WiproJuly\Day7\ClsReflectionExample1\bin\Debug\ClsReflectionExample1.dll
+D:\WiproJuly\Day7\ClsReflectionExample1\bin\Debug\ClsReflectionExample1.pdb
+D:\WiproJuly\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.csproj.AssemblyReference.cache
+D:\WiproJuly\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.dll
+D:\WiproJuly\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.pdb
