@@ -1,0 +1,7 @@
+D:\WiproJuly\Day7\LambdaDemos\bin\Debug\LambdaDemos.exe.config
+D:\WiproJuly\Day7\LambdaDemos\bin\Debug\LambdaDemos.exe
+D:\WiproJuly\Day7\LambdaDemos\bin\Debug\LambdaDemos.pdb
+D:\WiproJuly\Day7\LambdaDemos\obj\Debug\LambdaDemos.csproj.AssemblyReference.cache
+D:\WiproJuly\Day7\LambdaDemos\obj\Debug\LambdaDemos.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day7\LambdaDemos\obj\Debug\LambdaDemos.exe
+D:\WiproJuly\Day7\LambdaDemos\obj\Debug\LambdaDemos.pdb
