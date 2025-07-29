@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xEj/pDt8Ag=",
+  "success": true,
+  "projectFilePath": "D:\\WiproJuly\\Day8\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.codecoverage\\15.8.0\\microsoft.codecoverage.15.8.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.net.test.sdk\\15.8.0\\microsoft.net.test.sdk.15.8.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\nunit\\3.10.1\\nunit.3.10.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\nunit3testadapter\\3.10.0\\nunit3testadapter.3.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

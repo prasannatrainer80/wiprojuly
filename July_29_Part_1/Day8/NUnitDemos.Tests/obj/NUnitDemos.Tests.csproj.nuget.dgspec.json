@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WiproJuly\\Day8\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\WiproJuly\\Day8\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WiproJuly\\Day8\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj",
+        "projectName": "NUnitDemos.Tests",
+        "projectPath": "D:\\WiproJuly\\Day8\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "D:\\WiproJuly\\Day8\\NUnitDemos.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\WiproJuly\\Day8\\NUnitDemos\\NUnitDemos.csproj": {
+                "projectPath": "D:\\WiproJuly\\Day8\\NUnitDemos\\NUnitDemos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WiproJuly\\Day8\\NUnitDemos\\NUnitDemos.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\WiproJuly\\Day8\\NUnitDemos\\NUnitDemos.csproj",
+        "projectName": "NUnitDemos",
+        "projectPath": "D:\\WiproJuly\\Day8\\NUnitDemos\\NUnitDemos.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
