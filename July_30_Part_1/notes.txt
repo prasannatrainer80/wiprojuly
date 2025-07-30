@@ -1,0 +1,62 @@
+Nullablbe types
+Null coalescing operator
+Threading
+C# 7 features
+
+_____________________________________________________
+
+Dotnet Core 
+Rajor
+_______________________________________________________
+
+int a=null;
+
+C# compiler does not allows you to assign a null value to a 
+variable, To ensure, we need the help of nullable type. 
+
+You can define nullable type in 2 ways as
+
+datatype? variable_name = null;
+
+Nullable<data-type> variable_name = null;
+
+You can print the data by using GetValueOrDefault().
+
+In C#, ?? operator known as Null-coalescing operator, it will return the value of its left-hand operator if it is not null. If it is null, then the right hand operand will be returned. 
+
+In C#, we have indexer allows an instance of class to be indexed as an array. When indexer defined for a class, then that class will have like virtual array. A user can retrieve orset the indexe value pointing to an instance. 
+
+[Access_modifier] {return-type} this [params] {
+get;set;
+
+Multi-Threading : A thread is sequential execution of path of program. In Multi-Threading more than one task can be performed as a unit. 
+
+If you want to use the best utilization of CPU resources, then we need the help of multi-threading.
+
+There are various states we have in threads known as
+
+(i) Unstarted State : When the thread instance created but not started known as unstarted state. 
+
+(ii) Runnable state : Its confirmed thread and added to the list of threads to run that comes with runnable state
+
+(iii) Running State : A thread moves to running state after calling Start() 
+
+(iv) Blocked state : A thread enters into blocked state, when it is sleeping or waiting or suspended by another thread
+
+(v) Dead state : A thread enters into dead state when all statements are executed successfully or its aborted forcefully. 
+
+You can create a thread object as 
+
+ThreadStart obj = new ThreadStart(method_name) 
+
+-- similar to delegate syntax. 
+
+Sleep() : Makes a thread to wait for specific milliseconds time. 
+
+Synchronization : When two or more threads trying to access the same resource at same time, it leads to strange issues. This problem known as synchronization. To overcome this, unless one thread leaves the particular location another thread will not be entered. This is known as synchronization. 
+
+
+
+
+
+
