@@ -1,0 +1,68 @@
+
+
+Sometimes why writing code, we need to known which code where to write and 
+which one to be extended. And if any new feature to be added how to add this.
+
+How the software can damage design flaws : 
+_________________________________________
+
+ -> Putting more stress on classes by assigning more responsibilities to them.
+
+ -> Forcing the class to depend on each other. If classes depend on each other then a change in one will affect other
+
+ -> Spreading duplicate code in the system/application.
+
+To overcome this problem we need to ensure the Design Principles 
+
+SOLID Principles 
+_________________
+
+     -> S  : Single Responsibility Principle (SRP)
+     -> O  : Open-Closed Principle(OCP)
+     -> L  : Liskov Substitution Principle (LSP)
+     -> I  : Interface Segregation Principle (ISP)
+     -> D  : Dependency Inversion Principle (DIP) 
+
+SRP (Single Responsibility Principle) 
+
+	Each software modle should have only one reason to change. 
+Don't Put entire code in a single class, relevant code needs to put in relevant class. 
+
+OCP (Open Closed Principle) : Means Any software module is open for 
+extension and closed for modification. 
+
+LSP (LIskov Substitution Principle) 
+
+Derived classes must be substitutable for their parent classes. 
+
+Ensures that any class that is the child of parent class should be usable in place of parent without overriding the code. 
+
+Objects of superclass should be replaceable with objects of subclass
+without affecting the correctness of the program.
+
+ISP(Interface Segregation Principle) 
+
+This principle only applies to interfaces but not to classes, it is 
+similar to Single Responisibility principles, and it states that 
+"do not force any client to implement an interface which is irrelevant 
+to them "
+
+
+interface AnimalOperation 
+{
+   void fly();
+   void swim();
+}
+
+class Lion : AnimalOperation {
+
+}
+
+DIP (Dependency Inversion Principle) 
+
+is a principle in object-oriented designs that states that
+high level modules should not depend on low-level modules. Both should
+depend on abstractions. 
+
+Means, simple way we have to say is classes should rely on interfaces or
+abstract classes rather than concrete implementation.
