@@ -1,0 +1,7 @@
+D:\WiproJuly\Day10\OcpWith\bin\Debug\OcpWith.exe.config
+D:\WiproJuly\Day10\OcpWith\bin\Debug\OcpWith.exe
+D:\WiproJuly\Day10\OcpWith\bin\Debug\OcpWith.pdb
+D:\WiproJuly\Day10\OcpWith\obj\Debug\OcpWith.csproj.AssemblyReference.cache
+D:\WiproJuly\Day10\OcpWith\obj\Debug\OcpWith.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day10\OcpWith\obj\Debug\OcpWith.exe
+D:\WiproJuly\Day10\OcpWith\obj\Debug\OcpWith.pdb

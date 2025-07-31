@@ -1,0 +1,7 @@
+D:\WiproJuly\Day10\IspWithout\bin\Debug\IspWithout.exe.config
+D:\WiproJuly\Day10\IspWithout\bin\Debug\IspWithout.exe
+D:\WiproJuly\Day10\IspWithout\bin\Debug\IspWithout.pdb
+D:\WiproJuly\Day10\IspWithout\obj\Debug\IspWithout.csproj.AssemblyReference.cache
+D:\WiproJuly\Day10\IspWithout\obj\Debug\IspWithout.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day10\IspWithout\obj\Debug\IspWithout.exe
+D:\WiproJuly\Day10\IspWithout\obj\Debug\IspWithout.pdb

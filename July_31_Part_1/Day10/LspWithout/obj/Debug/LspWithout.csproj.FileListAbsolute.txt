@@ -1,0 +1,7 @@
+D:\WiproJuly\Day10\LspWithout\bin\Debug\LspWithout.exe.config
+D:\WiproJuly\Day10\LspWithout\bin\Debug\LspWithout.exe
+D:\WiproJuly\Day10\LspWithout\bin\Debug\LspWithout.pdb
+D:\WiproJuly\Day10\LspWithout\obj\Debug\LspWithout.csproj.AssemblyReference.cache
+D:\WiproJuly\Day10\LspWithout\obj\Debug\LspWithout.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day10\LspWithout\obj\Debug\LspWithout.exe
+D:\WiproJuly\Day10\LspWithout\obj\Debug\LspWithout.pdb

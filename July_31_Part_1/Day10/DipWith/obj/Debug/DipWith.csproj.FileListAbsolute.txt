@@ -1,0 +1,7 @@
+D:\WiproJuly\Day10\DipWith\bin\Debug\DipWith.exe.config
+D:\WiproJuly\Day10\DipWith\bin\Debug\DipWith.exe
+D:\WiproJuly\Day10\DipWith\bin\Debug\DipWith.pdb
+D:\WiproJuly\Day10\DipWith\obj\Debug\DipWith.csproj.AssemblyReference.cache
+D:\WiproJuly\Day10\DipWith\obj\Debug\DipWith.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day10\DipWith\obj\Debug\DipWith.exe
+D:\WiproJuly\Day10\DipWith\obj\Debug\DipWith.pdb
