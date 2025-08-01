@@ -1,0 +1,14 @@
+1) Display Last Occurrence of given char in a string
+
+Ex : 'Keerthi' char 'e' exists 2 times last time at position 3 
+
+2) Take FullName as 'Venkata Narayana' and split them into firstName and LastName
+
+3) In Word 'misissipi' count no.of 'i' 
+
+4) Display the last day of next month
+
+5) Display First Day of Previous Month
+
+6) Display all Fridays of current month
+
