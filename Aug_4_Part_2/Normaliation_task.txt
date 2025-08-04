@@ -1,0 +1,91 @@
+
+Employ(Empno,Ename,DeptCode,DeptName,Gender,Salary,ProjCode,Hours) 
+
+First Normal Form : A table said to be in first normal form, each cell precisely contains only one value (Atomic Values) 
+
+Example : 
+
+  E100,Uday,D001,DOtnet,Male,88423,{p001,p123},{88,111} 
+
+By Applying 1NF, 
+
+E100,Uday,D001,DOtnet,Male,88423,p001,88 
+E100,Uday,D001,DOtnet,Male,88423,p123,111 
+
+INSERT : The department of the particular employee cannot be recorded until the employee is assigned a project. 
+
+UPDATE : The DeptCode, DeptName Repeated Multiple Times, if any employ moves to another dept, the change needs to be reflected in all corresponding records
+
+DELETE : If any employee resigns his job, the dept and project details are also deleted. 
+
+So, 1NF Inadequate 
+
+Second Normal Form : A table said to be in 2NF, at first it must be in 1NF, and each key needs to functionally depend on whole key but not part of the key. 
+
+Guidelines : 
+_____________
+
+	(i) Find and remove attributes that are functionally depend on whole 		key
+	(ii) Group the remaining attributes. 
+
+By applying 2NF
+
+Employ(Empno,Ename,DeptCode,DeptName,Gender,Salary,ProjCode,Hours) 
+
+Empno -> Ename (Yes)
+      -> DeptCode (Yes)
+      -> DeptName (Yes)
+      -> Gender (Yes)
+      -> Salary (Yes)
+      -> ProjCode (No)
+      -> Hours (No) 
+
+Employ(Empno+,Ename,DeptCode,DeptName,Gender,Salary) 
+Project(Empno-,ProjCode,Hours) 
+	{ProjCode + Empno} 
+
+Third Normal Form : A table said to be in 3NF, at first it must be in 2NF and each cell needs to depend on whole key but not transitively. 
+
+Employ(Empno+,Ename,DeptCode,DeptName,Gender,Salary) 
+
+Insert : The deptCode, DeptName cannot be entered until employ is there 
+
+Update : DeptCode repeated multiple times, if any depthead moves to another, the change needs to be reflected in all corresponding records 
+
+Delete : IF any employ resigns the dept head records also lost
+
+Guidelines : 
+
+	-> Find and remove attributes that are transitively depend on 			particular key
+	-> Group the remaining attributes
+
+
+Empno+,Ename,DeptCode,DeptName,Gender,Salary
+
+Empno -> Ename (Yes)
+      -> DeptCode (No)
+      -> DeptName (No)
+      -> Gender (Yes)
+      -> Salary (No) 
+
+By applying 3NF,
+
+Dept(DeptCode,DeptName)
+Employ(Empno,DeptCode,Ename,Gender,Salary)
+Project(ProjCode,Empno,Hours) 
+
+Keypoints : 
+_____________
+
+1NF -> Atomic Values
+
+2NF -> Functional Dependency
+
+3NF -> Transitive Dependency 
+
+_______________________________________________________________________
+
+CourseDetails(Ccode,Coursename,Duration,Fee,StudentNo,StudentName,City,Gender,FacultyCode,FacultyName,Qualification,PaymentId,PaymentDate,BatchCode,BatchName,startDate,EndDate,Timing)
+
+
+
