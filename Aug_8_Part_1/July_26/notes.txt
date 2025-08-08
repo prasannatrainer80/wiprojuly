@@ -1,0 +1,92 @@
+Arrays are static data structures, means once they are assigned we cannot alter the size,
+so if you want to store data irrespective of size, then we need the help of collections. 
+
+Collections can grow to any size unlike arrays. 
+
+java.util is package, that which allows you to deal with collections. 
+
+Collections will store data in Object format. 
+
+Scanner 
+
+There are 3 top level interfaces we have in collections as
+
+1) List
+
+2) Set
+
+3) SortedSet 
+
+
+How to ensure a class not to be inherited further. 
+
+Make the class as final 
+
+final class cannot be inherited
+
+final method cannot be overrided
+
+final variable cannot be modified
+
+There are some immutable classes as String, Boolean, Byte, Integer, Sort etc... We can create any immutable classes by creating final class that have final data members. 
+
+StringBuilder : It is a mutable class, that which allows you modify, add ,delete
+the content and you can add number of lines also to that. 
+
+void show(int x) {
+...
+...
+...
+}
+
+show();
+show(12);
+show(12,5);
+
+
+varargs : A method that which contains varying arguments. As instead of passing 
+standard arguments, we need to pass any no.of arguments at runtime, can be defined 
+as varargs.
+
+You can define varargs by using ...
+
+void show(int...x) {
+...
+...
+}
+
+show();
+show(12);
+show(12,5);
+
+Set interface : Used to eliminate duplicate entries from the given list of values. 
+
+HashSet and LinkedHashSet are falling under Set interface. 
+
+The diff. between HashSet and LinkedHashSet is 
+
+HashSet prints the data in random order, where LinkedHashSet display's data w.r.t. Insertion Order
+
+SortedSet : This interface allows you to display values w.r.t. Sorted Order. 
+TreeSet is falling under SortedSet interface. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

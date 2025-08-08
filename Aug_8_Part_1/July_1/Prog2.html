@@ -1,0 +1,139 @@
+<! Doctype html>  
+<html lang="en">  
+<head>  
+  <meta charset="utf-8">  
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+  <title> Boostrap4 accordion Example </title>  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+  <link rel = "stylesheet" href ="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
+<style>  
+.myaccordion {  
+  max-width: 500px;  
+  margin: 50px auto;  
+  box-shadow: 0 0 1px rgba(0,0,0,0.1);  
+}  
+body {  
+   background-color: lightgrey;  
+}  
+.myaccordion .card  
+{  
+  border: none;  
+}  
+.myaccordion .card:last-child .card-header {  
+  border: none;  
+}  
+.myaccordion .card-header {  
+  border-bottom-color: #EDEFF0;  
+  background: transparent;  
+}  
+.myaccordion .fa-stack {  
+  font-size: 18px;  
+}  
+.myaccordion .btn {  
+  width: 100%;  
+  font-weight: bold;  
+  color: #004987;  
+  padding: 0;  
+}  
+h2 {  
+ font-style: italic;  
+font-family: "Playfair Display", serif;  
+color: black;   
+letter-spacing: -0.005em;   
+word-spacing: 1px;  
+font-size: 1.75em;  
+font-weight: bold;  
+margin-top: 20px;  
+text-align: center;  
+  }  
+.myaccordion .btn-link:hover  
+{  
+  text-decoration: none;  
+}  
+.myaccordion .btn-link:focus {  
+  text-decoration: none;  
+}  
+.myaccordion li + li {  
+  margin-top: 10px;  
+}  
+</style>  
+<body>  
+<h2> Boostrap4 Accordian Example </h2>    
+<div id="accordion" class="myaccordion">  
+  <div class="card">  
+    <div class="card-header" id="headingOne">  
+      <h2 class="mb-0">  
+        <button class="d-flex align-items-center justify-content-between btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">  
+          Java 5 Batch Students 
+          <span class="fa-stack fa-sm">  
+            <i class="fa fa-check-circle-o"></i>  
+            <i class="fas fa-minus fa-stack-1x fa-inverse"> </i>  
+          </span>  
+        </button>  
+      </h2>  
+    </div>  
+    <div id="collapseOne" class ="collapse show" aria-labelledby="headingOne" data-parent="#accordion">  
+      <div class="card-body">  
+        <ul>  
+          <li> Srinivas </li>  
+          <li> Pavan </li>  
+          <li> Bhaveen </li>  
+          <li> Ammar </li>  
+          <li> Vinod </li>  
+          <li> Neha </li>  
+          <li> Pavan </li>  
+        </ul>  
+      </div>  
+    </div>  
+  </div>  
+  <div class="card">  
+    <div class="card-header" id="headingTwo">  
+      <h2 class="mb-0">  
+        <button class="d-flex align-items-center justify-content-between btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">  
+          Java 4 Students  
+          <span class="fa-stack fa-2x">  
+            <i class="fa fa-check-circle-o"> </i>  
+            <i class="fas fa-plus fa-stack-1x fa-inverse"> </i>  
+          </span>  
+        </button>  
+      </h2>  
+    </div>  
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">  
+      <div class="card-body">  
+        <ul>  
+          <li> Ramesh </li>  
+          <li> Bhavanya </li>  
+          <li> Bhavana </li>  
+          <li> Baba Sai </li>  
+          <li> Yegna </li>  
+          <li> Sudharshan </li>  
+        </ul>  
+      </div>  
+    </div>  
+  </div>  
+  <div class="card">  
+    <div class="card-header" id="headingThree">  
+      <h2 class="mb-0">  
+        <button class="d-flex align-items-center justify-content-between btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">  
+          Java 1 and 2 Students
+          <span class="fa-stack fa-2x">  
+            <i class="fa fa-check-circle-o"> </i>  
+            <i class="fas fa-plus fa-stack-1x fa-inverse"> </i>  
+          </span>  
+        </button>  
+      </h2>  
+    </div>  
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">  
+      <div class="card-body">  
+        <ul>  
+          <li> Rajesh </li>  
+     <li> Ganesh </li>  
+          <li> Meghana </li>  
+          <li> Chandra </li>  
+          <li> Satish </li>  
+        </ul>  
+      </div>  
+    </div>  

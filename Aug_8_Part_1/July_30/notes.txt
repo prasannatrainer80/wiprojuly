@@ -1,0 +1,34 @@
+Set interface : Allows you to eliminate duplicate entries from the given collection.
+HashSet and LinkedHashSet are falling under Set interface.
+
+SortedSet : Allows you to display data w.r.t. ascending or descending order.
+
+TreeSet is falling under SortedSet interface.
+
+Comparator interface allows you to sort the records based on the parameter 
+specified.  We need to take separate class, that class must be implemented with
+Comparator interface, in that we need to override compare(). 
+
+Map interface : Allows you to store data w.r.t. Key/Value Pairs.
+
+HashTable and HashMap are falling under map interface. 
+
+Map map = new HashTable();
+
+put() : This method allows you to add entries to the collection. 
+
+Generics : Provides an opportunity to pass data types at runtime. If you want to make any method as write once and apply for all types, then we need the help of generics.  Generics can be represented using <T>, in place of <T> we can pass any type.
+
+Advantages of Generics : 
+_________________________
+
+(i) Write Once and apply for all types
+
+(ii) Provides security to the data.
+
+(iii) No Typecasting
+
+(iv) Reduces the size of the program. 
+
+Collections can take any kind of data, but if i want to make any collection to 
+restrict data, then we need the help of generics. 
