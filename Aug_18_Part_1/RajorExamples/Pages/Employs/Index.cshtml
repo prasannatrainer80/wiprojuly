@@ -1,0 +1,63 @@
+﻿@page
+@model RajorExamples.Pages.Employs.IndexModel
+@{
+}
+<p>
+	<a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(x => x.Employ[0].Empno)
+			</th> 
+			<th>
+				@Html.DisplayNameFor(test => test.Employ[0].Name)
+			</th>
+			<th>
+				@Html.DisplayNameFor(x => x.Employ[0].Gender)
+			</th> 
+			<th>
+				@Html.DisplayNameFor(x => x.Employ[0].Dept)
+			</th>
+			<th>
+				@Html.DisplayNameFor(x => x.Employ[0].Desig)
+			</th> 
+			<th>
+				@Html.DisplayNameFor(x => x.Employ[0].Basic)
+			</th>
+			<th>
+				Crud Operations
+			</th>
+		</tr>
+	</thead> 
+	<tbody>
+		@foreach(var v in Model.Employ)  {
+			<tr>
+				<td> 
+					@Html.DisplayFor(x => v.Empno)
+				</td>
+				<td>
+					@Html.DisplayFor(x => v.Name)
+				</td>
+				<td>
+					@Html.DisplayFor(x => v.Gender)
+				</td>
+				<td>
+					@Html.DisplayFor(x => v.Dept)
+				</td>
+				<td>
+					@Html.DisplayFor(x => v.Desig)
+				</td> 
+				<td>
+					@Html.DisplayFor(x => v.Basic)
+				</td>
+				<td>
+					<a asp-page="./Edit" asp-route-id="@v.Empno">Edit</a> |
+					<a asp-page="./Details" asp-route-id="@v.Empno">Details</a> |
+					@* <a asp-page="./Delete" asp-route-id="@item.Empno">Delete</a> *@
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
