@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DI8C596dyfpqmCVmBgM2iXOSClygfWuREJIGFDOtRKw=",
+  "Source": "RestBackup",
+  "BasePath": "_content/RestBackup",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

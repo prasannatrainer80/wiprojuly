@@ -181,6 +181,48 @@
     ]
   },
   {
+    "ContainingType": "RestEmployCrud.Controllers.RestEmployController",
+    "Method": "ShowEmploys",
+    "RelativePath": "api/RestEmploy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestEmployCrud.Controllers.RestEmployController",
+    "Method": "AddEmploy",
+    "RelativePath": "api/RestEmploy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employ",
+        "Type": "RestEmployCrud.Models.Employ",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestEmployCrud.Controllers.RestEmployController",
+    "Method": "SearchEmploy",
+    "RelativePath": "api/RestEmploy/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RestEmployCrud.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

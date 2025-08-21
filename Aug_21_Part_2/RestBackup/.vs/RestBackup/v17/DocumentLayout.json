@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backup\\RestBackup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|d:\\backup\\restbackup\\services\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|solutionrelative:services\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|d:\\backup\\restbackup\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|solutionrelative:controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|d:\\backup\\restbackup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|d:\\backup\\restbackup\\services\\iemployservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|solutionrelative:services\\iemployservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|d:\\backup\\restbackup\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E56ED6-7DCF-4A5A-A56B-23A8C026547F}|RestBackup.csproj|solutionrelative:models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestEmployController.cs",
+              "DocumentMoniker": "D:\\backup\\RestBackup\\Controllers\\RestEmployController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestEmployController.cs",
+              "ToolTip": "D:\\backup\\RestBackup\\Controllers\\RestEmployController.cs",
+              "RelativeToolTip": "Controllers\\RestEmployController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:02:40.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup\\RestBackup\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\backup\\RestBackup\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:01:26.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployService.cs",
+              "DocumentMoniker": "D:\\backup\\RestBackup\\Services\\EmployService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployService.cs",
+              "ToolTip": "D:\\backup\\RestBackup\\Services\\EmployService.cs",
+              "RelativeToolTip": "Services\\EmployService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:58:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployService.cs",
+              "DocumentMoniker": "D:\\backup\\RestBackup\\Services\\IEmployService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployService.cs",
+              "ToolTip": "D:\\backup\\RestBackup\\Services\\IEmployService.cs",
+              "RelativeToolTip": "Services\\IEmployService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:57:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\backup\\RestBackup\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "Models\\Employ.cs",
+              "ToolTip": "D:\\backup\\RestBackup\\Models\\Employ.cs",
+              "RelativeToolTip": "Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:56:21.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

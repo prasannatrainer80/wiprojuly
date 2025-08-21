@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WiproJuly\\Day10\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj": {}
+    "C:\\Users\\dell\\wiprojuly\\Aug_19_Part_1\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj": {}
   },
   "projects": {
-    "D:\\WiproJuly\\Day10\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj": {
+    "C:\\Users\\dell\\wiprojuly\\Aug_19_Part_1\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WiproJuly\\Day10\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\wiprojuly\\Aug_19_Part_1\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj",
         "projectName": "MvcAdoEmployCrud",
-        "projectPath": "D:\\WiproJuly\\Day10\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj",
+        "projectPath": "C:\\Users\\dell\\wiprojuly\\Aug_19_Part_1\\MvcAdoEmployCrud\\MvcAdoEmployCrud.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\WiproJuly\\Day10\\MvcAdoEmployCrud\\obj\\",
+        "outputPath": "C:\\Users\\dell\\wiprojuly\\Aug_19_Part_1\\MvcAdoEmployCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

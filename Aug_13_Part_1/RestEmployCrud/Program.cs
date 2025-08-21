@@ -1,9 +1,10 @@
 using RestEmployCrud.Models;
 using Microsoft.EntityFrameworkCore;
-
+using RestEmployCrud.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddHttpClient<IApiService, ApiService>();
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder => {
