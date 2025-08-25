@@ -1,0 +1,6 @@
+@GithubValidation_HostAddress = http://localhost:5107
+
+GET {{GithubValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
