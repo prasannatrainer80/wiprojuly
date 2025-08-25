@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestEmployCrud", "RestEmployCrud.csproj", "{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental", "..\CarRental\CarRental.csproj", "{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\carrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BBDD52-52AC-4366-B9B8-84F2BBE3FB45}|..\\CarRental\\CarRental.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\carrental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\models\\employdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:models\\employdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +51,28 @@
       "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\restemploycrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:restemploycrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:controllers\\restemploycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\controllers\\employsnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:controllers\\employsnewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|c:\\users\\dell\\wiprojuly\\aug_13_part_1\\restemploycrud\\restemploycrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A78DA8CF-FF44-4AAA-81CA-91A5FED769E9}|RestEmployCrud.csproj|solutionrelative:restemploycrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +82,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RestEmployController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Controllers\\RestEmployController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RestEmployController.cs",
-              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Controllers\\RestEmployController.cs",
-              "RelativeToolTip": "Controllers\\RestEmployController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwCcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\CarRental\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:13:25.695Z",
+              "WhenOpened": "2025-08-25T09:13:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\AuthService.cs",
+              "RelativeToolTip": "..\\CarRental\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:05:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "..\\CarRental\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:04:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\Users.cs",
+              "RelativeToolTip": "..\\CarRental\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:59:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "..\\CarRental\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:54:09.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "Services\\ApiService.cs",
-              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Services\\ApiService.cs",
-              "RelativeToolTip": "Services\\ApiService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Program.cs",
+              "RelativeToolTip": "..\\CarRental\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:59:37.695Z",
+              "WhenOpened": "2025-08-25T08:51:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Models\\CarDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "..\\CarRental\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:50:54.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\CarRental\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\appsettings.json",
+              "RelativeToolTip": "..\\CarRental\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T08:48:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "..\\CarRental\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:06:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\IAuthService.cs",
+              "RelativeToolTip": "..\\CarRental\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:04:32.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\CarRental\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\Models\\Vehicle.cs",
+              "RelativeToolTip": "..\\CarRental\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:48:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarRental",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\CarRental.csproj",
+              "RelativeDocumentMoniker": "..\\CarRental\\CarRental.csproj",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\CarRental\\CarRental.csproj",
+              "RelativeToolTip": "..\\CarRental\\CarRental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T08:48:33.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IApiService.cs",
               "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Services\\IApiService.cs",
               "RelativeDocumentMoniker": "Services\\IApiService.cs",
@@ -85,8 +255,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RestEmployCrud",
+              "DocumentIndex": 12,
+              "Title": "EmployDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Models\\EmployDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Models\\EmployDbContext.cs",
+              "RelativeToolTip": "Models\\EmployDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:50:40.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:55:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:59:37.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RestEmployController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Controllers\\RestEmployController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestEmployController.cs",
+              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Controllers\\RestEmployController.cs",
+              "RelativeToolTip": "Controllers\\RestEmployController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:13:25.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RestEmployCrud.csproj",
               "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\RestEmployCrud.csproj",
               "RelativeDocumentMoniker": "RestEmployCrud.csproj",
               "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\RestEmployCrud.csproj",
@@ -98,20 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T05:55:58.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -124,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "EmploysNewController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Controllers\\EmploysNewController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmploysNewController.cs",
@@ -137,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "EmploysController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\wiprojuly\\Aug_13_Part_1\\RestEmployCrud\\Controllers\\EmploysController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmploysController.cs",
